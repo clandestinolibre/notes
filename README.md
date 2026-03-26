@@ -129,4 +129,4 @@ rm -rf ~/.local/share/notes
 ```
 
 License
-MIT © 2025 clandestino161
+MIT © 2025 clandestinolibre
